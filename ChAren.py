@@ -15,7 +15,7 @@ import time
 import sys
 
 
-api_key = "RGAPI-4229a1d4-1006-4e65-a919-327a92ca653d"
+api_key = "<Put your Riot API Key here>"
 queue_id = "1700"
 
 def getChampionsData():
