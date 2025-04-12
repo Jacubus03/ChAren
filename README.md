@@ -1,7 +1,6 @@
 # ChAren
-Riot API app
-<br><br>
-Requirements: Riot API Key
+<br>
+<b></b>Requirements:</b> Riot API Key
 <br><br>
 Description:
 <br>
