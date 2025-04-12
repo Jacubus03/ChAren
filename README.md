@@ -1,6 +1,5 @@
 # ChAren
-<br>
-<b></b>Requirements:</b> Riot API Key
+<b>Requirements:</b> Riot API Key
 <br><br>
 Description:
 <br>
